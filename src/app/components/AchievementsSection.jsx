@@ -22,7 +22,7 @@ const achievementsList = [
   },
   {
     metric: "Internships",
-    value: "2",
+    value: "1",
   },
 ];
 
